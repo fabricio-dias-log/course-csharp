@@ -1,0 +1,3 @@
+[submodule "DemoDiamondProblem"]
+	path = DemoDiamondProblem
+	url = git@github.com:fabricio-dias-log/demo-diamond-problem.git
