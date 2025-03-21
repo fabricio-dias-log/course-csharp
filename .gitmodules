@@ -1,3 +1,6 @@
 [submodule "DemoDiamondProblem"]
 	path = DemoDiamondProblem
 	url = git@github.com:fabricio-dias-log/demo-diamond-problem.git
+[submodule "GenericsSetDictionary"]
+	path = GenericsSetDictionary
+	url = git@github.com:fabricio-dias-log/generics-set-dictionary.git
