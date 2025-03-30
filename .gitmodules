@@ -4,3 +4,6 @@
 [submodule "GenericsSetDictionary"]
 	path = GenericsSetDictionary
 	url = git@github.com:fabricio-dias-log/generics-set-dictionary.git
+[submodule "ExerciseSetsCsharp"]
+	path = ExerciseSetsCsharp
+	url = git@github.com:fabricio-dias-log/exercise-sets-csharp.git
