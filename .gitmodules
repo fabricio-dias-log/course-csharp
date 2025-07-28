@@ -1,9 +1,12 @@
 [submodule "DemoDiamondProblem"]
 	path = DemoDiamondProblem
-	url = git@github.com:fabricio-dias-log/demo-diamond-problem.git
+	url = https://github.com/fabricio-dias-log/demo-diamond-problem.git
 [submodule "GenericsSetDictionary"]
 	path = GenericsSetDictionary
-	url = git@github.com:fabricio-dias-log/generics-set-dictionary.git
+	url = https://github.com/fabricio-dias-log/generics-set-dictionary.git
 [submodule "ExerciseSetsCsharp"]
 	path = ExerciseSetsCsharp
-	url = git@github.com:fabricio-dias-log/exercise-sets-csharp.git
+	url = https://github.com/fabricio-dias-log/exercise-sets-csharp.git
+[submodule "ExtensionMethods"]
+	path = ExtensionMethods
+	url = .\\ExtensionMethods\\
