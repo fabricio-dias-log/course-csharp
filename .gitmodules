@@ -9,4 +9,4 @@
 	url = https://github.com/fabricio-dias-log/exercise-sets-csharp.git
 [submodule "ExtensionMethods"]
 	path = ExtensionMethods
-	url = .\\ExtensionMethods\\
+	url = https://github.com/fabricio-dias-log/csharp-extension-methods.git
