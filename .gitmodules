@@ -10,3 +10,6 @@
 [submodule "ExtensionMethods"]
 	path = ExtensionMethods
 	url = https://github.com/fabricio-dias-log/csharp-extension-methods.git
+[submodule "ExpLambdaDelegatesLINQ"]
+	path = ExpLambdaDelegatesLINQ
+	url = .\\ExpLambdaDelegatesLINQ\\
