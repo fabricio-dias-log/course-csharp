@@ -12,4 +12,4 @@
 	url = https://github.com/fabricio-dias-log/csharp-extension-methods.git
 [submodule "ExpLambdaDelegatesLINQ"]
 	path = ExpLambdaDelegatesLINQ
-	url = .\\ExpLambdaDelegatesLINQ\\
+	url = https://github.com/fabricio-dias-log/csharp-lambda-delegates-linq.git
