@@ -13,3 +13,6 @@
 [submodule "ExpLambdaDelegatesLINQ"]
 	path = ExpLambdaDelegatesLINQ
 	url = .\\ExpLambdaDelegatesLINQ\\
+[submodule "SolvedExerciseLinq"]
+	path = SolvedExerciseLinq
+	url = .\\SolvedExerciseLinq\\
